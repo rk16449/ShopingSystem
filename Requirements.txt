@@ -1,0 +1,8 @@
+General Requirements
+
+1. User Account system - The system must be able to allow account creation, which also checks for email validation. Users should be able to login and 
+						check their: profile, orders, basket, newsletter
+						
+						
+						
+						
