@@ -4,5 +4,8 @@ General Requirements
 						check their: profile, orders, basket, newsletter
 						
 						
-						
+2. Stock/Products system - The db should have tables to hold the products, entering products onto the db should automatically update the website
+							on: pricing, amount left, sizes that we have, colours, delivery etc
+							
+							
 						
