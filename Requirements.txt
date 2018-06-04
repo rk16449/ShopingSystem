@@ -22,3 +22,5 @@ General Requirements
 
 9. Reminder/Stock system - The system should be able to tell users if they would like to be emailed whenever we have stock of a 
 							particular item that is out of stock
+							
+10. Review system - The system should be able to allow customers who have purchased items to review the item and leave feedback in stars/comments
