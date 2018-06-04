@@ -8,4 +8,5 @@ General Requirements
 							on: pricing, amount left, sizes that we have, colours, delivery etc
 							
 							
+3. Payment Processing System - The system should be able to handle paypal payments from a checkout
 						
