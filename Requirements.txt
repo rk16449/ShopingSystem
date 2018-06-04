@@ -15,3 +15,5 @@ General Requirements
 5. Favourites - Adding clothes on favourites should save separately to cart
 
 6. Contact form - Customers should be able to contact customer support either live chat or email
+
+7. Search items - Be able to search for items via names/tags and product id
