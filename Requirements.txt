@@ -17,3 +17,5 @@ General Requirements
 6. Contact form - Customers should be able to contact customer support either live chat or email
 
 7. Search items - Be able to search for items via names/tags and product id
+
+8. Newsletter/Subscription service - be able to subscribe with email and receive news or information on clothes
