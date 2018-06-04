@@ -14,4 +14,4 @@ General Requirements
 
 5. Favourites - Adding clothes on favourites should save separately to cart
 
-						
+6. Contact form - Customers should be able to contact customer support either live chat or email
