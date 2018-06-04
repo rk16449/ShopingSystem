@@ -9,4 +9,6 @@ General Requirements
 							
 							
 3. Payment Processing System - The system should be able to handle paypal payments from a checkout
+
+4. Discount codes - The company should be able to easily add discount codes for a set date and expiry time 
 						
