@@ -24,3 +24,5 @@ General Requirements
 							particular item that is out of stock
 							
 10. Review system - The system should be able to allow customers who have purchased items to review the item and leave feedback in stars/comments
+
+11. Delivery System - Confirmed orders should go to a separate delivery system/app for the delivery employees to send/recv orders
