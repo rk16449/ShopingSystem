@@ -26,3 +26,5 @@ General Requirements
 10. Review system - The system should be able to allow customers who have purchased items to review the item and leave feedback in stars/comments
 
 11. Delivery System - Confirmed orders should go to a separate delivery system/app for the delivery employees to send/recv orders
+
+12. Refund System - There should be a policy put in place on how we handle returns, and the various processes on returning items
