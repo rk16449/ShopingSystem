@@ -28,3 +28,6 @@ General Requirements
 11. Delivery System - Confirmed orders should go to a separate delivery system/app for the delivery employees to send/recv orders
 
 12. Refund System - There should be a policy put in place on how we handle returns, and the various processes on returning items
+
+13. Department System - Depending on the type of item, it should fall under a certain department and only that department should 
+						have access to add/update/delete items
